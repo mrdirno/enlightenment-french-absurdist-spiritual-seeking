@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-french-absurdist-spiritual-seeking",
+  "title": "The Negligible Soul of Gaspard Leclerc",
+  "tagline": "A man classified as spiritually weightless must navigate a bureaucracy of the absurd to find a meaning that matters.",
+  "target_words": 70000,
+  "actual_words": 70951,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of Enlightenment",
+    "Seeking as a Comic Performance",
+    "The Sacred in the Profane & Mundane",
+    "Existential Weight vs. Spiritual Levity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Concierge Was Dead",
+      "words": 2950
+    },
+    {
+      "ch": 2,
+      "title": "The Booth of Possibility",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "Everything Else a Clue",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Ministry of Gravitas & Levity",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "Three Testimonials",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "The Disillusioned Angel",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Ferret's Secret",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "A Seeker's Ledger",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The Salesman's Epiphany",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "Madame Lefevre's Packages",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Pear's Philosophy",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "Interlude at Au Rêve Objet",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The First Bus Stop",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "Form S-74",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Weight of a Fly",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "A Novel Without a First Chapter",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "The Appeal Begins",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "Ballast - Light",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Fifth Step's Groan",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Celestial Mail",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "The Committee's Silence",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "The Economy of the Absurd",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Provisional Adjustment",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "Rue de l'Espérance",
+      "words": 2951
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a minor municipal bureaucrat experiences a genuine, fleeting moment of grace while processing Form S-74.",
+      "Create the 'Ferret's Secret'—the story behind the photograph in the concierge's booth, revealing an absurd, tiny spiritual lineage.",
+      "Draft a chapter where Gaspard attempts to get a 'signed testimonial to profound inner change' from the repulsive salesman on the third floor.",
+      "Imagine Bernard the waiter's internal monologue as he serves coffee to seekers, observing their failed epiphanies with celestial detachment."
+    ],
+    "technical": [
+      "Build a 'Soul Weight Class' calculator that asks absurd, philosophical questions and outputs a bureaucratic classification.",
+      "Create an interactive map of the 'Rue de l'Espérance' where users can click on buildings (café, police station, ministry) to reveal vignettes of existential delay."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Albert Camus",
+      "Franz Kafka",
+      "Simone de Beauvoir",
+      "Douglas Adams"
+    ]
+  },
+  "cover_prompt": "A man in a worn, dark suit, Gaspard Leclerc, sits perfectly upright yet appears to float an inch above his wooden chair, his expression a blend of weary determination and profound confusion, [Detailed Scene & Context: in a cavernous, absurdly ornate bureaucratic hall filled with endless rows of identical clerks at high desks, stamping papers that flutter like doves; towering file cabinets stretch into a misty, infinite distance, with a single, mundane window casting a shaft of light onto a teacup and a wilting potted plant on his desk], [Artistic Style & Medium: in the atmospheric style of Giorgio de Chirico meets Edward Hopper, with the detailed inkwork of Edward Gorey, rendered in matte acrylic and fine ink lines on textured paper], [Composition & Camera: book cover framing, a centered and symmetrical composition viewed from a low, dramatic angle that emphasizes the vast, oppressive architecture and Gaspard's small, levitating figure within it], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single strong, cold light source from the high window, casting long, geometric shadows; a desaturated palette of dusty grays, faded bureaucratic greens, and dull browns, with a single vivid spot of color in the red wax of a sealing stamp on his desk], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
