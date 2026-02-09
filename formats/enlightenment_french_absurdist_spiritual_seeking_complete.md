@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The concierge was dead, which was inconvenient, because I needed my mail.
+Monsieur Leclerc’s enlightenment arrived via a rotten peach. It struck his powdered wig with a soft, theological splat. He stared at the fruit, then the empty sky, then the fruit again. No divine hand was visible. Only pulp, slowly sliding down a curl of horsehair, smelling faintly of sacrament and decay.
+
 
 He was not dramatically dead, not sprawled across the marble foyer with a dagger in his back or a look of existential revelation frozen on his waxy face. That would have been interesting, a conversation starter. No, he was bureaucratically dead. Slumped in his wooden booth, head tilted back against the pigeonhole shelves, mouth agape as if awaiting a particularly large and disappointing piece of celestial mail. One hand rested on the ledger of comings and goings, his pen had rolled to a stop against a bottle of indifferent ink. The cause was not mystery, but mediocrity. A small, grey cessation. He had simply, it seemed, forgotten to continue living.
 
